@@ -14,7 +14,7 @@ RepeatElements.js is a lightweight JavaScript library that enables the cloning o
 Include RepeatElements.js in your project by adding the following script tag to your HTML:
 
 ```html
-<script src="path_to_your_js_folder/RepeatElements.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/webeechetan/RepeatElements@1.0.0/RepeatElements.js"></script>
 ```
 
 You can also download and host the JavaScript file yourself or use a CDN link if available.
