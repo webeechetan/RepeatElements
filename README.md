@@ -41,7 +41,7 @@ Here's a complete example of how to use RepeatElements.js in your webpage:
 <head>
     <meta charset="UTF-8">
     <title>Repeat Elements Example</title>
-    <script src="path_to_your_js_folder/RepeatElements.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/webeechetan/RepeatElements@1.0.0/RepeatElements.js"></script>
 </head>
 <body>
     <div data-repeat="3">
